@@ -20,7 +20,7 @@ node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-2
 
 # Ștergerea unui contact
 
-node index.js --action remove --id=3
+node index.js --action remove --id=11
 
 LINK-URI:
 
@@ -34,4 +34,4 @@ Adăugarea unui contact
 https://ibb.co/kJ3LgZT
 
 Ștergerea unui contact
-https://ibb.co/37KJR2B
+https://ibb.co/qg05rSB
